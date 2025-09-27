@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+/* Encabezado */
+header {
+  padding: 20px;
+  background: linear-gradient(to bottom, #00BFFF, #009ACD);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+/* Cada zona */
+.zona {
+  padding: 60px 20px;
+}
+
+/* Zonas con degradado de azul */
+.epipelagica {
+  background-color: #00BFFF; /* Azul claro */
+}
+
+.mesopelagica {
+  background-color: #007ACC; /* Azul más oscuro */
+}
+
+.batipelagica {
+  background-color: #004C99; /* Azul profundo */
+}
+
+.abisopelagica {
+  background-color: #002966; /* Azul muy oscuro */
+}
+
+.hadopelagica {
+  background-color: #001333; /* Azul casi negro */
+}
+
+/* Footer */
+footer {
+  background-color: #000814;
+  padding: 15px;
+  font-size: 0.9rem;
+}
